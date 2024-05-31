@@ -21,3 +21,10 @@ CTRL + B + [ = Enter copy mode
 CTRL + SPACE = Select text  
 CTRL + W = Copy  
 CTRL + B + ] = Paste  
+
+## Theme
+Install theme PowerLevel10k
+Github:
+'''
+https://github.com/romkatv/powerlevel10k
+'''
