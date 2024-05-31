@@ -26,5 +26,5 @@ CTRL + B + ] = Paste
 Install theme PowerLevel10k
 Github:
 
-[https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+[https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k){:target="_blank"}
 
